@@ -1,5 +1,3 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam mollis aliquam lorem, ac hendrerit est placerat id.
 Phasellus faucibus neque vel turpis gravida faucibus.
 In finibus, velit eu consequat maximus, nibh ante ullamcorper magna, eu faucibus leo arcu vel magna.
 Ut tempus, nunc in porttitor consequat, nisl tortor maximus nisl, id tempor dui mauris a nibh.
@@ -9,3 +7,5 @@ Integer rhoncus fermentum ipsum dapibus maximus.
 Proin placerat, dolor quis vehicula dignissim, odio magna consequat quam, at sollicitudin odio est sit amet mauris.
 Praesent pellentesque lorem eget nisi imperdiet ornare. Phasellus efficitur porttitor dapibus.
 Aenean sollicitudin sit amet lorem vitae feugiat.
+
+Une nouvelle ligne, qui n'existait donc pas dans la version précédente !
